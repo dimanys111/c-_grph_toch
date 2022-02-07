@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>open.png</file>
+        <file>osi.png</file>
+        <file>toch.png</file>
+        <file>res.png</file>
+        <file>clear.png</file>
+        <file>sterka.png</file>
+        <file>plus.png</file>
+    </qresource>
+</RCC>
